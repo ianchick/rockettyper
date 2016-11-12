@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Rocket Typer</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="time">Time: 1 Minute</string>
+
+    <string-array name="sentences">
+        <item>Aunt Petunia looked as though she might faint.</item>
+        <item>She sank into the chair beside Dudley, her face in her hands.</item>
+        <item>The remains of the envelope smoldered into ash in the silence.</item>
+        <item>Harry didn’t move.</item>
+        <item>Harry had no particular feeling about the Dursleys leaving.</item>
+        <item>It made no difference to him whether they were in the house or not.</item>
+        <item>He could not even summon the energy to get up and turn on his bedroom light.</item>
+        <item>The eldest of these, and Bilbo\'s favourite, was young Frodo Baggins.</item>
+        <item>He held forth at The Ivy Bush, a small inn on the Bywater road.</item>
+        <item>He spoke with some authority, for he had tended the garden at Bag End for forty years, and had helped old Holman in the same job before that.</item>
+        <item>Now that he was himself growing old and stiff in the joints, the job was mainly carried on by his youngest son, Sam Gamgee.</item>
+        <item>Both father and son were on very friendly terms with Bilbo and Frodo.</item>
+        <item>They lived on the Hill itself, in Number three Bagshot Row just below Bag End.</item>
+        <item>But the Gaffer did not convince his audience.</item>
+        <item>The legend of Bilbo\'s wealth was now too firmly fixed in the minds of the younger generation of hobbits.</item>
+        <item>How bright your garden looks, said Gandalf.</item>
+        <item>We shall see, said Bilbo.</item>
+        <item>What you know you can\'t explain, but you feel it.</item>
+        <item>You\'ve felt it your entire life, that there\'s something wrong with the world.</item>
+        <item>You don\'t know what it is, but it\'s there, like a splinter in your mind, driving you mad.</item>
+        <item>There is a difference between knowing the path and walking the path.</item>
+        <item>Never send a human to do a machine\'s job.</item>
+        <item>Neo, nobody has ever done this before.</item>
+
+    </string-array>
+
+    <string name="settings">Settings</string>
+</resources>
